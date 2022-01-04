@@ -8,7 +8,18 @@ Today we will talk about what was the need for crypto currencies, how bitcoin ca
 
 ### Barter system
 
+in ancient times, we used to follow barter system to trade. i.e exchange of goods and services between two people. lets not get into depth here. but you need to understand this is not sustainable. it had major problemes like
+
+- Measure of value.
+- Difficult in storing.
+- impossible to divide.
+- Demands.
+
+To solve this gold coins was introduced.
+
 ### Gold Standard
+
+From gold coins to paper notes backed by the gold standard, only recently has money moved to a fiat system that is not backed by a physical commodity.
 
 ### Problem with central authority
 
@@ -16,4 +27,13 @@ Today we will talk about what was the need for crypto currencies, how bitcoin ca
 
 ### Concepts of Blockchain and Crypto
 
+- Cryptocurrency is not a blanket currency-> not all cryptos are currencies.
+
+21 million total crculation. the value of coin you have is confirmed. regular currencies cannot be a storee of value. value is not conserved gere.
+
 ### Takeaways
+
+you get freedom, no options avaliable in Fiat currency.
+
+- bitcoin is the extension of economic value.
+- This will not kill the regular Fiat currency
