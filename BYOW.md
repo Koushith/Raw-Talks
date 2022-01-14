@@ -1,6 +1,6 @@
 ### BYOB-
 
-### Fix typos and gramatical errors
+### Fix typos and gramatical errors......
 
 in this video we'll talk about the problems with Fiat and centralization.
 
