@@ -1,5 +1,6 @@
-### BYOB- 
+### BYOB-
 
+### Fix typos and gramatical errors
 
 in this video we'll talk about the problems with Fiat and centralization.
 
@@ -9,40 +10,42 @@ The whole puropse of the crypto is to "Be Your own Bank!!" - will come to this l
 
 ### Blockchain- crypto usecase
 
- if you think about the usecases of Blockchain- crypto- if i try to list out i would come up with 5-6. it's still in the early stage.
- - Currency Aspects- P2P'
- - Defi
- - NFT's- Digital assestes
- - SmartContracts
- - DAO's
+if you think about the usecases of Blockchain- crypto- if i try to list out i would come up with 5-6. it's still in the early stage.
+
+- Currency Aspects- P2P'
+- Defi
+- NFT's- Digital assestes
+- SmartContracts
+- DAO's
 
 ### Early days of internet and its usecases.
+
 similarly, if you ask the usecase of Innternet in early 1997-2000, people used to critisise this as www bubble. what could be the possible usecases?
+
 - Blogs- publishing
 - Forums.
 
 more over its centralized. controlled by central authority.
 
-what was the problem?  we need to trust them and agree on thier set of rules. i'm not saying that we shouldn't trust them. we cant do anything about that. this is the default system today.
+what was the problem? we need to trust them and agree on thier set of rules. i'm not saying that we shouldn't trust them. we cant do anything about that. this is the default system today.
 
 what if there is another possible way?
 
--  Idea of Crypto is Decentralization.
-
-
+- Idea of Crypto is Decentralization.
 
 ### Banks- inflation, controlling funds
-Let's take an example of country which faces hyper inflation- Zimbawe. at one point they have printed 1T bill. during inflation- the value of currency decreses rapidly. 
 
-##### Since money loses its value, what are the options we have? 
+Let's take an example of country which faces hyper inflation- Zimbawe. at one point they have printed 1T bill. during inflation- the value of currency decreses rapidly.
 
-- Buying Gold. 
+##### Since money loses its value, what are the options we have?
 
-why?- gold is something which has value. 
+- Buying Gold.
+
+why?- gold is something which has value.
 
 another option can be BTC- unlike gold, it has a store value. more on this later.
 
-### With Gold, there comes another problem. 
+### With Gold, there comes another problem.
 
 i.e Medum of exchange.
 
@@ -59,8 +62,6 @@ This is why they introduced legal tender- a paper that is backed by gold. i.e is
 
 ### whats the problem with centralization anyway?
 
-
-
 lets say you are in a country which faces hyper inflation, the value of currency is decresing rapidly.
 
 you have decided to carry all of yourassets, money and leave this country.
@@ -71,15 +72,13 @@ you have decided to carry all of yourassets, money and leave this country.
 - let's say you have managed to widhdraw all of your money, would you be carrying a stach of cash which is worthless?
 - anyway you cant use this currency in another country right?
 
-if you have this in cryptos, with the help of yourcrypto wallets, no matter where do you live, you can load up instantly. all of your assets are stored in decentralized blockchain network. 
+if you have this in cryptos, with the help of yourcrypto wallets, no matter where do you live, you can load up instantly. all of your assets are stored in decentralized blockchain network.
 
 i would say it can be truely a borderless cureency.
 
 all you need is to remeber this 12 word. aka your seed phrases. the only catch is- you need to protect this throughout your life. if your keys are compermised, you'll lose your assets forever.
 
 more on walltets in upcoming days.
-
-
 
 ### Key takeaways
 
@@ -106,5 +105,3 @@ more on walltets in upcoming days.
 - How Bitcoin solves inflation problem?
 - Difference betwween storing the assets in Excanges and Crypto wallets.
 - How Does Crypto wallets works?
-
-
