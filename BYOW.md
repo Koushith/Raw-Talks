@@ -1,4 +1,4 @@
-### BYOB-
+### BYOB- Be your own bank
 
 ### Fix typos and gramatical errors.
 
