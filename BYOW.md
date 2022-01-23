@@ -12,7 +12,7 @@ The whole puropse of the crypto is to "Be Your own Bank!!" - will come to this l
 
 if you think about the usecases of Blockchain- crypto- if i try to list out i would come up with 5-6. it's still in the early stage.
 
-- Currency Aspects- P2P'
+- Currency Aspects- P2P'...
 - Defi
 - NFT's- Digital assestes
 - SmartContracts
