@@ -1,58 +1,81 @@
 ## Unfiltered, raw with lot of typos to fix later.
 
 
-### what is Ethereum?
-
-it is worlds first programmable blockchain. it is heavily inspired by bitcoin. bitcoin had lot of drawbacks. both lets you yo use digital money without payment providers or banks, but etherium is programmable, sp that you can use
-
-it sa foundation for our digtal future,
-
-etehrium is open access to digital money and data-friendly serivces for everyone no matter your background or location.
 
 
-Thnink like - features
-
-- Bank for everyone 
-
-not everyone has the axxess to finicial services, but here if you want to access the services that banking provides all ou need is a etheium wallet, ether and internet. today, billions of people cant open bank accounts, payments were blocked. etheriums decentralized finance system never sleeps or discriminates. with just an internet connection, you can send, recoeve, borrow and earn intres, even stream funds anywhere in the world.
-
-- Private internet 
-
-you dont need to provide your personal details to use an etherium dapp. it is building an economy based on valu.
-
-- Peer to peer network
-
- Etehrium allow you to move money, or make contracts directly with simeone. you dont have to go through intermediaters.
- 
- - Censorship ressitant.
-
-no company or government has the control over etherium. this decentraization makes it nearly impossible for anyone to stop you from rece=ieving money or using dapps.
-
-Etherium is moren than payments. its a marketplace of fininciaal services, games and apps that cant steal your data or censor you.
-
-note- etheroum ansd eth is differenct . etherium is the blockchain and ther is the currency that powers the blockchain.
-
-to use any of the etherium services you need eth. thats how the price demand of ether goes on. 
-
-best way to get started is to get a wallet and few ethg, try out few dapps. in the upcoming streams, we will try out few dapps.
-
-lets talk about few usecases -
-
-- Defi
-
- a open finincial system that gives you more control over your money and unlocks new possiblitties. if you have done any cross borer transaction, you will know the pain. here you can send recieve ,borroew or lend- you can do pretty much anything that modern banks can do,
-
-- Assets.
 
 
-etherium isnt just for digital money. anything you can own can be represented, traded amd put into use as non fungible tokens, you can tokenize your art and get royalties automaticallt everytime it is re-sold, or use that and take loan. there are endless possiblities.
 
-nfts are the way to represet uniquiqe items as etherium assets.
 
-- DAO's
 
-A new way to collabrate and setup online communities with shared goald and pooled funds. token comes into play here. more about dao's in upcoming streams,
-think about the, as a native business that is colletively owned and managfed by its menbers. they have built in treasures that no one has the authority to access without the approval of group. decisions are governed by proposals and voting. there is no ceo who can authorize or man=uplate.
+
+
+
+
+/**/
+
+Etherium is an opensource blockchain that has it's own native currency called Ether (more on Coin VS Token). It is worlds first programmable blockchain heavily inspired by Bitcoin. 
+
+Bitcoin had lot of drawbacks. it was designed to be a p2p cash. but its underlying technolgy i.e blockchin which is nothing but a distributed leger in simple terms made this possible.
+
+what if there was a way to make use of blockchain other than digital cash? that's how Etherium was born.
+
+Etherium is programmable, meaning that you can buld applications on top of etherium network. there is something called as smartcontract, just like any legal contracts, it has all the conditions, basically a code which is self executing in nature. you can deply this on etherium network. to interact with this you need Ethers.
+
+### What's the connection?
+
+In etherium network, there are miners who are verifyning this transactions, while doing any transactions,you will have to pay the small fee. this fee will go to the miners. on successfly verification of transaction, they are grouped togather and added to the blocks. when miner adds this blocks, new ethers will ge generated.
+
+now you know that Etherium is the platform and Ether is the currency that powers Etherium platform.
+
+## Why Etherium and Decentralization is a game changer? 
+
+To answer this, think Etherium as : 
+
+### Bank for Everyone
+
+- Not everyone has the access to finincial services. there are chances that your payments are blocked by banks, more paper works to get a loan even if you have strong collateral and lot more.
+
+- Etheriums decentralized finance system never sleeps or discriminates. with just an internet connection, you can send, recieve, borrow and earn intrest, even stream funds anywhere in the world. all you need is a wallet, few ethers and internet connection.
+
+### Private Internet
+
+- we live in an era where data is new oil. here you dont need to provide your personal details to use an etherium dapp. it is building an economy based on value.
+
+### Peer to Peer Network
+
+- Etherium allow you to move money, or make contracts directly with anyone. you dont have to go through intermediaters.
+
+### Censorship ressitant.
+
+- No company or government has the control over etherium. this decentraization makes it nearly impossible for anyone to stop you from recieving money or using dapps.
+
+- Think of twiiter, free speech was their core values, not anymore. they will censor or block your account if you try go against.
+
+- Etherium is moren than payments. its a marketplace of finincial services, games and apps that can't steal your data or censor you.
+
+
+
+### Use Cases
+
+Best way to get started is to get a wallet and few Ethers.
+
+## DeFi (Decentralized Finance)
+
+-  A open finincial system that gives you more control over your money and unlocks new possiblitties. if you have done any cross borer transaction, you will know the pain. here you can send recieve ,borrow or lend- you can do pretty much anything that modern banks can do.
+
+### Assets (NFT's)
+
+- Etherium isn't just for digital money. anything you can own can be represented, traded and put into use as non fungible tokens, you can tokenize your art and get royalties automatically everytime it is re-sold, or use that and take loan. there are endless possiblities.
+
+NFT's are the way to represent unique items as etherium assets.
+
+
+### DAO's
+
+- A new way to collabrate and setup online communities with shared goald and pooled funds. token comes into play here. more about dao's in upcoming streams,
+
+- Think about this  as a native business that is colletively owned and managed by its menbers. they have built in treasures that no one has the authority to access without the approval of group. decisions are governed by proposals and voting. there is no ceo who can authorize or manuplate.
 
 ## DAO examples
 
@@ -67,8 +90,14 @@ you can accept membership and donations from anyone in the world and the group c
 you could create a venture fund that pools investment capital and votes on ventures to back. Repaid money could later be redistributed amongst DAO-members.
 
 
-how incentivzn works? 
 
-when you send eth or etherium powered application, you will have to pay small fee in eth to use the etherium network. thi sfee is an incentive for a miner to process and verify what you are trying to do.
+### Quick comparison between Etherium vs BTC
 
-minorors are like record keepers. they check and prove that no one is cheaing. they are rewared with small amounts of newly issied eth.
+![](https://i.imgur.com/0MOoznY.png)
+
+That's all guys, in the next video we can discuss about 
+
+- coins vs token
+- Deep dive into DeFi or DAO's
+- Use any Dapps (Uniswap, Avve etc)
+
